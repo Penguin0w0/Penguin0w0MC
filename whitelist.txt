@@ -54,8 +54,6 @@ ac55888
 Noir_exe
 Kai_Bi_OAO
 Xiemei_Glow
-MetallicKitty
-yi_0215
 old_Kevin
 Tw_Yoru
 DssaYee
@@ -71,3 +69,4 @@ B1iznetsy
 FEATHER_0A0
 lunlun_o0u0uo
 Aurora_Levia
+IX_999
